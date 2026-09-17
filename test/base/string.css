@@ -1,0 +1,64 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --i-string-typography-font-family-lato: "lato";
+  --i-string-text-hyperlink-decoration: "underline";
+  --i-string-typography-font-weight-light: "light";
+  --i-string-typography-font-weight-regular: "regular";
+  --i-string-typography-font-weight-bold: "bold";
+  --i-string-typography-font-weight-light: var(--i-string-typography-font-weight-light);
+  --i-string-typography-font-weight-regular: var(--i-string-typography-font-weight-regular);
+  --i-string-typography-font-weight-bold: var(--i-string-typography-font-weight-bold);
+  --i-string-typography-font-family-base: var(--i-string-typography-font-family-lato);
+  --i-string-text-body-family: var(--i-string-typography-font-family-lato);
+  --i-string-advanced-filters-font-family: var(--i-string-text-body-family);
+  --i-string-avatar-font-family: var(--i-string-text-body-family);
+  --i-string-breadcrumb-font-family: var(--i-string-text-body-family);
+  --i-string-badge-font-family: var(--i-string-text-body-family);
+  --i-string-button-font-family: var(--i-string-text-body-family);
+  --i-string-card-font-family: var(--i-string-text-body-family);
+  --i-string-chart-font-family: var(--i-string-text-body-family);
+  --i-string-checkbox-font-family: var(--i-string-text-body-family);
+  --i-string-cookies-font-family: var(--i-string-text-body-family);
+  --i-string-datepicker-font-family: var(--i-string-text-body-family);
+  --i-string-dropdown-font-family: var(--i-string-text-body-family);
+  --i-string-footer-font-family: var(--i-string-text-body-family);
+  --i-string-header-font-family: var(--i-string-text-body-family);
+  --i-string-legend-font-family: var(--i-string-text-body-family);
+  --i-string-insertion-point-font-family: var(--i-string-text-body-family);
+  --i-string-input-font-family: var(--i-string-text-body-family);
+  --i-string-filtersbar-font-family: var(--i-string-text-body-family);
+  --i-string-list-item-font-family: var(--i-string-text-body-family);
+  --i-string-list-item-notification-font-family: var(--i-string-text-body-family);
+  --i-string-loading-font-family: var(--i-string-text-body-family);
+  --i-string-list-item-search-font-family: var(--i-string-text-body-family);
+  --i-string-message-font-family: var(--i-string-text-body-family);
+  --i-string-overlay-font-family: var(--i-string-text-body-family);
+  --i-string-pagination-font-family: var(--i-string-text-body-family);
+  --i-string-page-font-family: var(--i-string-text-body-family);
+  --i-string-radio-button-font-family: var(--i-string-text-body-family);
+  --i-string-searchbar-font-family: var(--i-string-text-body-family);
+  --i-string-select-font-family: var(--i-string-text-body-family);
+  --i-string-sidebar-font-family: var(--i-string-text-body-family);
+  --i-string-snackbar-font-family: var(--i-string-text-body-family);
+  --i-string-sidebar-button-font-family: var(--i-string-text-body-family);
+  --i-string-step-font-family: var(--i-string-text-body-family);
+  --i-string-tab-font-family: var(--i-string-text-body-family);
+  --i-string-tachometer-font-family: var(--i-string-text-body-family);
+  --i-string-text-font-family: var(--i-string-text-body-family);
+  --i-string-table-font-family: var(--i-string-text-body-family);
+  --i-string-timeline-font-family: var(--i-string-text-body-family);
+  --i-string-topbar-font-family: var(--i-string-text-body-family);
+  --i-string-topbar-button-font-family: var(--i-string-text-body-family);
+  --i-string-button-font-text-decoration-undeerline: var(--i-string-text-hyperlink-decoration);
+  --i-string-toggle-font-family: var(--i-string-text-body-family);
+  --i-string-toast-font-family: var(--i-string-text-body-family);
+  --i-string-tooltip-font-family: var(--i-string-text-body-family);
+  --i-string-two-pane-font-family: var(--i-string-text-body-family);
+  --i-string-text-heading-family: var(--i-string-typography-font-family-lato);
+  --i-string-text-subtitle-family: var(--i-string-typography-font-family-lato);
+  --i-string-popover-font-family: var(--i-string-text-body-family);
+}
