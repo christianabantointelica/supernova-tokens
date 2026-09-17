@@ -1,0 +1,17 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --i-typography-heading-6xl: 700 var(--i-dimension-page-font-size-6xl)/var(--i-dimension-page-font-line-height-6xl) var(--i-string-page-font-family);
+  --i-typography-heading-5xl: 700 var(--i-dimension-page-font-size-5xl)/var(--i-dimension-page-font-line-height-5xl) var(--i-string-page-font-family);
+  --i-typography-heading-4xl: 700 var(--i-dimension-page-font-size-4xl)/var(--i-dimension-page-font-line-height-4xl) var(--i-string-page-font-family);
+  --i-typography-heading-3xl: 700 var(--i-dimension-page-font-size-3xl)/var(--i-dimension-page-font-line-height-3xl) var(--i-string-page-font-family);
+  --i-typography-heading-2xl: 700 var(--i-dimension-page-font-size-2xl)/var(--i-dimension-page-font-line-height-2xl) var(--i-string-page-font-family);
+  --i-typography-heading-xl: 700 var(--i-dimension-page-font-size-xl)/var(--i-dimension-page-font-line-height-xl) var(--i-string-page-font-family);
+  --i-typography-subtitle-lg: 700 var(--i-dimension-page-font-size-lg)/var(--i-dimension-page-font-line-height-lg) var(--i-string-page-font-family);
+  --i-typography-subtitle-md: 700 var(--i-dimension-page-font-size-md)/var(--i-dimension-page-font-line-height-md) var(--i-string-page-font-family);
+  --i-typography-subtitle-sm: 700 var(--i-dimension-page-font-size-sm)/var(--i-dimension-page-font-line-height-sm) var(--i-string-page-font-family);
+  --i-typography-subtitle: 700 var(--i-dimension-page-font-size-xs)/var(--i-dimension-page-font-line-height-xs) var(--i-string-page-font-family);
+}

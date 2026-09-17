@@ -1,0 +1,13 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --i-gradient-gradient1: linear-gradient(180deg, rgba(var(--i-color-chart-color-primary), 1) 0%, rgba(var(--i-color-chart-color-primary00), 0) 100%);
+  --i-gradient-gradient2: linear-gradient(180deg, rgba(var(--i-color-chart-color-secondary), 1) 0%, rgba(var(--i-color-chart-color-secondary00), 0) 100%);
+  --i-gradient-gradient3: linear-gradient(180deg, rgba(var(--i-color-chart-color-tertiary), 1) 0%, rgba(var(--i-color-chart-color-tertiary00), 0) 100%);
+  --i-gradient-gradient4: linear-gradient(180deg, rgba(var(--i-color-chart-color-quaternary), 1) 0%, rgba(var(--i-color-chart-color-quaternary00), 0) 100%);
+  --i-gradient-gradient5: linear-gradient(180deg, rgba(var(--i-color-chart-color-quinary), 1) 0%, rgba(var(--i-color-chart-color-quinary00), 0) 100%);
+  --i-gradient-loading: linear-gradient(90deg, #fcfcfc00 39.9%, rgba(var(--i-color-loading-color-skeleton-light), 1) 50%, #fcfcfc00 60.1%);
+}
